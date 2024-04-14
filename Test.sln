@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoxesAndPaletts", "Test\BoxesAndPaletts.csproj", "{1C8993D2-D5D1-4BFD-9C46-9CE352127E02}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BoxAndPallets.Tests", "BoxAndPalletsTest\BoxAndPallets.Tests.csproj", "{90A644C5-6FB9-41AD-98E1-1B7FF93CABEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C8993D2-D5D1-4BFD-9C46-9CE352127E02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C8993D2-D5D1-4BFD-9C46-9CE352127E02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C8993D2-D5D1-4BFD-9C46-9CE352127E02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C8993D2-D5D1-4BFD-9C46-9CE352127E02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90A644C5-6FB9-41AD-98E1-1B7FF93CABEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90A644C5-6FB9-41AD-98E1-1B7FF93CABEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90A644C5-6FB9-41AD-98E1-1B7FF93CABEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90A644C5-6FB9-41AD-98E1-1B7FF93CABEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE0A36FF-2C06-4BC1-BE39-09159D6A5624}
+	EndGlobalSection
+EndGlobal
