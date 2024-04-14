@@ -18,7 +18,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Test\BoxesAndPaletts.csproj" />
+    <ProjectReference Include="..\Test\PalettesAndBoxes.csproj" />
   </ItemGroup>
 
 </Project>
